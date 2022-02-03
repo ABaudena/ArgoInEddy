@@ -38,28 +38,12 @@ ans =
 
      0
 
-Extracting:    nrt_global_allsat_phy_l4_20220121_20220127.nc
-Extracting:    nrt_global_allsat_phy_l4_20220122_20220128.nc
-Extracting:    nrt_global_allsat_phy_l4_20220123_20220129.nc
-Extracting:    nrt_global_allsat_phy_l4_20220124_20220130.nc
-Extracting:    nrt_global_allsat_phy_l4_20220125_20220131.nc
-Extracting:    nrt_global_allsat_phy_l4_20220126_20220201.nc
-Extracting:    nrt_global_allsat_phy_l4_20220127_20220202.nc
-Extracting:    nrt_global_allsat_phy_l4_20220128_20220203.nc
 Extracting:    nrt_global_allsat_phy_l4_20220129_20220201.nc
 Extracting:    nrt_global_allsat_phy_l4_20220130_20220202.nc
 Extracting:    nrt_global_allsat_phy_l4_20220131_20220203.nc
 Extracting:    nrt_global_allsat_phy_l4_20220201_20220201.nc
 Extracting:    nrt_global_allsat_phy_l4_20220202_20220202.nc
 Extracting:    nrt_global_allsat_phy_l4_20220203_20220203.nc
-Extracting eddies for:    adt_20220121.mat
-Extracting eddies for:    adt_20220122.mat
-Extracting eddies for:    adt_20220123.mat
-Extracting eddies for:    adt_20220124.mat
-Extracting eddies for:    adt_20220125.mat
-Extracting eddies for:    adt_20220126.mat
-Extracting eddies for:    adt_20220127.mat
-Extracting eddies for:    adt_20220128.mat
 Extracting eddies for:    adt_20220129.mat
 Extracting eddies for:    adt_20220130.mat
 Extracting eddies for:    adt_20220131.mat
@@ -371,18 +355,15 @@ Save Contours
 rm: cannot remove '~/matlab/Automatic_Coloc/TOEddies/Trajectories/*': No such file or directory
 [Warning: Variable 'Vit' not found.] 
 [> In Step4_Associate_Eddies (line 24)
-In Example_Colocation_Float_6903095 (line 145)
+In Example_Colocation_Float_6903095 (line 146)
 In run (line 91)] 
 [Warning: Variable 'Vit' not found.] 
 [> In Step4_Associate_Eddies (line 24)
-In Example_Colocation_Float_6903095 (line 145)
+In Example_Colocation_Float_6903095 (line 146)
 In run (line 91)] 
 [Warning: Variable 'Vit' not found.] 
 [> In Step4_Associate_Eddies (line 24)
-In Example_Colocation_Float_6903095 (line 145)
+In Example_Colocation_Float_6903095 (line 146)
 In run (line 91)] 
 Argo float #6903095 did not surface the 02-02-2022 in an eddy
 Argo float #6903096 did not surface the 01-02-2022 in an eddy
-rm: cannot remove '/home/rlaxenaire/complex/share/ArgoInEddy/Figures': No such file or directory
-cp: cannot create directory '/home/rlaxenaire/complex/share/ArgoInEddy/': No such file or directory
-Calculation started at 03-Feb-2022 08:42:24. Current time: 03-Feb-2022 08:59:04 
