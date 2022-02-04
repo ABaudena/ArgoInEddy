@@ -370,3 +370,37 @@ In Example_Colocation_Float_6903095 (line 146)
 In run (line 91)] 
 Argo float #6903095 did not surface the 02-02-2022 in an eddy
 Argo float #6903096 did not surface the 01-02-2022 in an eddy
+[main a7a3dec] Last update of figures on 14-Dec-2031 06:14:01
+ Committer: Alexi LAXENAIRE <rlaxenaire@marie.obs-vlfr.fr>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 194 insertions(+), 191 deletions(-)
+ rewrite Figures/6903095/Float_#6903095_20220202_LastSurfacing.jpg (73%)
+ rewrite Figures/6903095/ResumeArgo6903095.txt (100%)
+ rewrite Figures/6903096/Float_#6903096_20220201_LastSurfacing.jpg (81%)
+ rewrite Figures/6903096/ResumeArgo6903096.txt (100%)
+
+ans =
+
+     0
+
+Enumerating objects: 18, done.
+Counting objects:   5% (1/18)Counting objects:  11% (2/18)Counting objects:  16% (3/18)Counting objects:  22% (4/18)Counting objects:  27% (5/18)Counting objects:  33% (6/18)Counting objects:  38% (7/18)Counting objects:  44% (8/18)Counting objects:  50% (9/18)Counting objects:  55% (10/18)Counting objects:  61% (11/18)Counting objects:  66% (12/18)Counting objects:  72% (13/18)Counting objects:  77% (14/18)Counting objects:  83% (15/18)Counting objects:  88% (16/18)Counting objects:  94% (17/18)Counting objects: 100% (18/18)Counting objects: 100% (18/18), done.
+Delta compression using up to 72 threads
+Compressing objects:  10% (1/10)Compressing objects:  20% (2/10)Compressing objects:  30% (3/10)Compressing objects:  40% (4/10)Compressing objects:  50% (5/10)Compressing objects:  60% (6/10)Compressing objects:  70% (7/10)Compressing objects:  80% (8/10)Compressing objects:  90% (9/10)Compressing objects: 100% (10/10)Compressing objects: 100% (10/10), done.
+Writing objects:  10% (1/10)Writing objects:  20% (2/10)Writing objects:  30% (3/10)Writing objects:  40% (4/10)Writing objects:  50% (5/10)Writing objects:  60% (6/10)Writing objects:  70% (7/10)Writing objects:  80% (8/10)Writing objects:  90% (9/10)Writing objects: 100% (10/10)Writing objects: 100% (10/10), 334.65 KiB | 13.39 MiB/s, done.
+Total 10 (delta 5), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/5)        remote: Resolving deltas:  20% (1/5)        remote: Resolving deltas:  40% (2/5)        remote: Resolving deltas:  60% (3/5)        remote: Resolving deltas:  80% (4/5)        remote: Resolving deltas: 100% (5/5)        remote: Resolving deltas: 100% (5/5), completed with 5 local objects.        
+To https://github.com/ABaudena/ArgoInEddy.git
+   4349b86..a7a3dec  main -> main
+Calculation started at 04-Feb-2022 06:00:05. Current time: 04-Feb-2022 06:14:03 
