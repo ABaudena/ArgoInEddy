@@ -38,18 +38,20 @@ ans =
 
      0
 
-Extracting:    nrt_global_allsat_phy_l4_20220129_20220201.nc
+Extracting:    nrt_global_allsat_phy_l4_20220129_20220204.nc
 Extracting:    nrt_global_allsat_phy_l4_20220130_20220202.nc
 Extracting:    nrt_global_allsat_phy_l4_20220131_20220203.nc
-Extracting:    nrt_global_allsat_phy_l4_20220201_20220201.nc
+Extracting:    nrt_global_allsat_phy_l4_20220201_20220204.nc
 Extracting:    nrt_global_allsat_phy_l4_20220202_20220202.nc
 Extracting:    nrt_global_allsat_phy_l4_20220203_20220203.nc
+Extracting:    nrt_global_allsat_phy_l4_20220204_20220204.nc
 Extracting eddies for:    adt_20220129.mat
 Extracting eddies for:    adt_20220130.mat
 Extracting eddies for:    adt_20220131.mat
 Extracting eddies for:    adt_20220201.mat
 Extracting eddies for:    adt_20220202.mat
 Extracting eddies for:    adt_20220203.mat
+Extracting eddies for:    adt_20220204.mat
 Extracting variables for:    adt_20210411.mat
 Extracting variables for:    adt_20210412.mat
 Extracting variables for:    adt_20210413.mat
@@ -349,6 +351,7 @@ Extracting variables for:    adt_20220131.mat
 Extracting variables for:    adt_20220201.mat
 Extracting variables for:    adt_20220202.mat
 Extracting variables for:    adt_20220203.mat
+Extracting variables for:    adt_20220204.mat
 Save Cyclonics eddies
 Save Antiyclonics eddies
 Save Contours
