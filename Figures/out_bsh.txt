@@ -38,20 +38,20 @@ ans =
 
      0
 
-Extracting:    nrt_global_allsat_phy_l4_20220201_20220207.nc
-Extracting:    nrt_global_allsat_phy_l4_20220202_20220205.nc
+Extracting:    nrt_global_allsat_phy_l4_20220202_20220208.nc
 Extracting:    nrt_global_allsat_phy_l4_20220203_20220206.nc
 Extracting:    nrt_global_allsat_phy_l4_20220204_20220207.nc
-Extracting:    nrt_global_allsat_phy_l4_20220205_20220205.nc
+Extracting:    nrt_global_allsat_phy_l4_20220205_20220208.nc
 Extracting:    nrt_global_allsat_phy_l4_20220206_20220206.nc
 Extracting:    nrt_global_allsat_phy_l4_20220207_20220207.nc
-Extracting eddies for:    adt_20220201.mat
+Extracting:    nrt_global_allsat_phy_l4_20220208_20220208.nc
 Extracting eddies for:    adt_20220202.mat
 Extracting eddies for:    adt_20220203.mat
 Extracting eddies for:    adt_20220204.mat
 Extracting eddies for:    adt_20220205.mat
 Extracting eddies for:    adt_20220206.mat
 Extracting eddies for:    adt_20220207.mat
+Extracting eddies for:    adt_20220208.mat
 Extracting variables for:    adt_20210411.mat
 Extracting variables for:    adt_20210412.mat
 Extracting variables for:    adt_20210413.mat
@@ -355,6 +355,7 @@ Extracting variables for:    adt_20220204.mat
 Extracting variables for:    adt_20220205.mat
 Extracting variables for:    adt_20220206.mat
 Extracting variables for:    adt_20220207.mat
+Extracting variables for:    adt_20220208.mat
 Save Cyclonics eddies
 Save Antiyclonics eddies
 Save Contours
@@ -370,55 +371,24 @@ In run (line 91)]
 [> In Step4_Associate_Eddies (line 24)
 In Example_Colocation_Float_6903095 (line 151)
 In run (line 91)] 
-06:12:57:Type=id_start_std count=1 rest=1763
-06:12:57:Type=id_start_std count=1000 rest=764
-06:12:58:Type=id_start_split count=1 rest=1845
-06:12:58:Type=id_start_split count=1000 rest=846
-06:12:59:Type=id_start_merge count=1 rest=1009
-06:12:59:Type=id_start_merge count=1000 rest=10
-06:13:01:Type=id_start_both count=1 rest=39
-06:13:09:count=1 rest=100%
-06:13:09:count=1000 rest=67.1%
-06:13:12:Type=id_start_std count=1 rest=1786
-06:13:12:Type=id_start_std count=1000 rest=787
-06:13:13:Type=id_start_split count=1 rest=1935
-06:13:13:Type=id_start_split count=1000 rest=936
-06:13:15:Type=id_start_merge count=1 rest=1021
-06:13:15:Type=id_start_merge count=1000 rest=22
-06:13:17:Type=id_start_both count=1 rest=37
-06:13:24:count=1 rest=100%
-06:13:25:count=1000 rest=67.8%
+06:12:48:Type=id_start_std count=1 rest=1774
+06:12:48:Type=id_start_std count=1000 rest=775
+06:12:49:Type=id_start_split count=1 rest=1865
+06:12:49:Type=id_start_split count=1000 rest=866
+06:12:51:Type=id_start_merge count=1 rest=1021
+06:12:51:Type=id_start_merge count=1000 rest=22
+06:12:52:Type=id_start_both count=1 rest=40
+06:13:00:count=1 rest=100%
+06:13:01:count=1000 rest=67.4%
+06:13:04:Type=id_start_std count=1 rest=1792
+06:13:04:Type=id_start_std count=1000 rest=793
+06:13:04:Type=id_start_split count=1 rest=1968
+06:13:05:Type=id_start_split count=1000 rest=969
+06:13:06:Type=id_start_merge count=1 rest=1039
+06:13:06:Type=id_start_merge count=1000 rest=40
+06:13:08:Type=id_start_both count=1 rest=41
+06:13:16:count=1 rest=100%
+06:13:16:count=1000 rest=68.4%
+06:13:16:count=2000 rest=36.8%
 Argo float #6903095 did not surface the 05-02-2022 in an eddy
-Argo float #6903096 did not surface the 04-02-2022 in an eddy
-[main d959a6f] Last update of figures on 07-Feb-2022 07:14:09
- Committer: Alexi LAXENAIRE <rlaxenaire@marie.obs-vlfr.fr>
-Your name and email address were configured automatically based
-on your username and hostname. Please check that they are accurate.
-You can suppress this message by setting them explicitly. Run the
-following command and follow the instructions in your editor to edit
-your configuration file:
-
-    git config --global --edit
-
-After doing this, you may fix the identity used for this commit with:
-
-    git commit --amend --reset-author
-
- 6 files changed, 33 insertions(+), 32 deletions(-)
- rewrite Figures/6903095/Float_#6903095_20220205_LastSurfacing.jpg (63%)
- rewrite Figures/6903096/Float_#6903096_20220204_LastSurfacing.jpg (80%)
-
-ans =
-
-     0
-
-Enumerating objects: 20, done.
-Counting objects:   5% (1/20)Counting objects:  10% (2/20)Counting objects:  15% (3/20)Counting objects:  20% (4/20)Counting objects:  25% (5/20)Counting objects:  30% (6/20)Counting objects:  35% (7/20)Counting objects:  40% (8/20)Counting objects:  45% (9/20)Counting objects:  50% (10/20)Counting objects:  55% (11/20)Counting objects:  60% (12/20)Counting objects:  65% (13/20)Counting objects:  70% (14/20)Counting objects:  75% (15/20)Counting objects:  80% (16/20)Counting objects:  85% (17/20)Counting objects:  90% (18/20)Counting objects:  95% (19/20)Counting objects: 100% (20/20)Counting objects: 100% (20/20), done.
-Delta compression using up to 72 threads
-Compressing objects:   9% (1/11)Compressing objects:  18% (2/11)Compressing objects:  27% (3/11)Compressing objects:  36% (4/11)Compressing objects:  45% (5/11)Compressing objects:  54% (6/11)Compressing objects:  63% (7/11)Compressing objects:  72% (8/11)Compressing objects:  81% (9/11)Compressing objects:  90% (10/11)Compressing objects: 100% (11/11)Compressing objects: 100% (11/11), done.
-Writing objects:   9% (1/11)Writing objects:  18% (2/11)Writing objects:  27% (3/11)Writing objects:  36% (4/11)Writing objects:  45% (5/11)Writing objects:  54% (6/11)Writing objects:  63% (7/11)Writing objects:  72% (8/11)Writing objects:  81% (9/11)Writing objects:  90% (10/11)Writing objects: 100% (11/11)Writing objects: 100% (11/11), 414.60 KiB | 13.82 MiB/s, done.
-Total 11 (delta 6), reused 0 (delta 0)
-remote: Resolving deltas:   0% (0/6)        remote: Resolving deltas:  16% (1/6)        remote: Resolving deltas:  33% (2/6)        remote: Resolving deltas:  50% (3/6)        remote: Resolving deltas:  66% (4/6)        remote: Resolving deltas:  83% (5/6)        remote: Resolving deltas: 100% (6/6)        remote: Resolving deltas: 100% (6/6), completed with 6 local objects.        
-To https://github.com/ABaudena/ArgoInEddy.git
-   0dc6ed5..d959a6f  main -> main
-Calculation started at 07-Feb-2022 06:00:04. Current time: 07-Feb-2022 06:14:10 
+Argo float #6903096 did not surface the 07-02-2022 in an eddy
