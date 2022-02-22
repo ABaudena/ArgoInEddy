@@ -383,26 +383,26 @@ In run (line 91)]
 [> In Step4_Associate_Eddies (line 24)
 In Example_Colocation_Float_6903095 (line 151)
 In run (line 91)] 
-14:57:01:Type=id_start_std count=1 rest=1847
-14:57:01:Type=id_start_std count=1000 rest=848
-14:57:02:Type=id_start_split count=1 rest=1938
-14:57:02:Type=id_start_split count=1000 rest=939
-14:57:03:Type=id_start_merge count=1 rest=1071
-14:57:03:Type=id_start_merge count=1000 rest=72
-14:57:05:Type=id_start_both count=1 rest=39
-14:57:13:count=1 rest=100%
-14:57:14:count=1000 rest=68.8%
-14:57:14:count=2000 rest=37.6%
-14:57:17:Type=id_start_std count=1 rest=1877
-14:57:17:Type=id_start_std count=1000 rest=878
-14:57:18:Type=id_start_split count=1 rest=2041
-14:57:18:Type=id_start_split count=1000 rest=1042
-14:57:18:Type=id_start_split count=2000 rest=42
-14:57:20:Type=id_start_merge count=1 rest=1098
-14:57:20:Type=id_start_merge count=1000 rest=99
-14:57:22:Type=id_start_both count=1 rest=37
-14:57:30:count=1 rest=100%
-14:57:31:count=1000 rest=69.9%
-14:57:31:count=2000 rest=39.7%
+16:57:50:Type=id_start_std count=1 rest=1847
+16:57:50:Type=id_start_std count=1000 rest=848
+16:57:51:Type=id_start_split count=1 rest=1938
+16:57:51:Type=id_start_split count=1000 rest=939
+16:57:53:Type=id_start_merge count=1 rest=1071
+16:57:53:Type=id_start_merge count=1000 rest=72
+16:57:55:Type=id_start_both count=1 rest=39
+16:58:03:count=1 rest=100%
+16:58:03:count=1000 rest=68.8%
+16:58:04:count=2000 rest=37.6%
+16:58:06:Type=id_start_std count=1 rest=1877
+16:58:06:Type=id_start_std count=1000 rest=878
+16:58:07:Type=id_start_split count=1 rest=2041
+16:58:07:Type=id_start_split count=1000 rest=1042
+16:58:08:Type=id_start_split count=2000 rest=42
+16:58:09:Type=id_start_merge count=1 rest=1098
+16:58:09:Type=id_start_merge count=1000 rest=99
+16:58:11:Type=id_start_both count=1 rest=37
+16:58:19:count=1 rest=100%
+16:58:19:count=1000 rest=69.9%
+16:58:20:count=2000 rest=39.7%
 Argo float #6903095 did not surface the 20-02-2022 in an eddy
 Argo float #6903096 did not surface the 21-02-2022 in an eddy
