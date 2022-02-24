@@ -108,3 +108,4 @@
 -e Float #6903095, 14-02-2022,21:59 : did not surface in an eddy 
 -e Float #6903095, 17-02-2022,22:52 : did not surface in an eddy 
 -e Float #6903095, 20-02-2022,22:56 : did not surface in an eddy 
+-e Float #6903095, 23-02-2022,21:59 : did not surface in an eddy 
