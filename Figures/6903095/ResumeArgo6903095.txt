@@ -4,7 +4,7 @@
 -e Float #6903095, 14-04-2021,08:34 : surfaced in Cyclone 62 
 -e Float #6903095, 14-04-2021,14:14 : surfaced in Cyclone 62 
 -e Float #6903095, 14-04-2021,19:57 : surfaced in Cyclone 62 
--e Float #6903095, 17-04-2021,22:55 : surfaced in Cyclone 62 
+-e Float #6903095, 17-04-2021,22:56 : surfaced in Cyclone 62 
 -e Float #6903095, 20-04-2021,22:38 : surfaced in Cyclone 62 
 -e Float #6903095, 23-04-2021,22:46 : surfaced in Cyclone 62 
 -e Float #6903095, 26-04-2021,22:44 : surfaced in Cyclone 62 
@@ -16,7 +16,7 @@
 -e Float #6903095, 15-05-2021,02:40 : surfaced in Cyclone 62 
 -e Float #6903095, 18-05-2021,02:44 : surfaced in Cyclone 62 
 -e Float #6903095, 21-05-2021,02:52 : surfaced in Cyclone 62 
--e Float #6903095, 24-05-2021,13:20 : surfaced in Cyclone 62 
+-e Float #6903095, 24-05-2021,13:21 : surfaced in Cyclone 62 
 -e Float #6903095, 27-05-2021,02:58 : surfaced in Cyclone 62 
 -e Float #6903095, 30-05-2021,02:36 : surfaced in Cyclone 62 
 -e Float #6903095, 02-06-2021,02:50 : surfaced in Cyclone 62 
@@ -27,7 +27,7 @@
 -e Float #6903095, 17-06-2021,02:38 : surfaced in Cyclone 62 
 -e Float #6903095, 20-06-2021,02:40 : surfaced in Cyclone 62 
 -e Float #6903095, 23-06-2021,02:38 : surfaced in Cyclone 62 
--e Float #6903095, 26-06-2021,02:18 : surfaced in Cyclone 62 
+-e Float #6903095, 26-06-2021,02:19 : surfaced in Cyclone 62 
 -e Float #6903095, 29-06-2021,02:32 : surfaced in Cyclone 62 
 -e Float #6903095, 02-07-2021,02:14 : surfaced in Cyclone 62 
 -e Float #6903095, 05-07-2021,02:58 : surfaced in Cyclone 62 
@@ -37,15 +37,15 @@
 -e Float #6903095, 17-07-2021,02:40 : surfaced in Cyclone 62 
 -e Float #6903095, 20-07-2021,02:16 : surfaced in Cyclone 62 
 -e Float #6903095, 23-07-2021,02:36 : surfaced in Cyclone 62 
--e Float #6903095, 26-07-2021,02:16 : surfaced in Cyclone 62 
+-e Float #6903095, 26-07-2021,02:17 : surfaced in Cyclone 62 
 -e Float #6903095, 29-07-2021,02:36 : surfaced in Cyclone 62 
--e Float #6903095, 01-08-2021,02:16 : surfaced in Cyclone 62 
+-e Float #6903095, 01-08-2021,02:17 : surfaced in Cyclone 62 
 -e Float #6903095, 04-08-2021,02:38 : surfaced in Cyclone 62 
--e Float #6903095, 07-08-2021,02:10 : surfaced in Cyclone 62 
+-e Float #6903095, 07-08-2021,02:11 : surfaced in Cyclone 62 
 -e Float #6903095, 10-08-2021,02:38 : surfaced in Cyclone 62 
 -e Float #6903095, 13-08-2021,02:20 : surfaced in Cyclone 62 
 -e Float #6903095, 16-08-2021,02:44 : surfaced in Cyclone 62 
--e Float #6903095, 18-08-2021,22:51 : surfaced in Cyclone 62 
+-e Float #6903095, 18-08-2021,22:52 : surfaced in Cyclone 62 
 -e Float #6903095, 21-08-2021,23:37 : surfaced in Cyclone 62 
 -e Float #6903095, 24-08-2021,22:43 : surfaced in Cyclone 62 
 -e Float #6903095, 27-08-2021,23:09 : surfaced in Cyclone 62 
@@ -55,7 +55,7 @@
 -e Float #6903095, 08-09-2021,23:17 : surfaced in Cyclone 62 
 -e Float #6903095, 11-09-2021,22:53 : surfaced in Cyclone 62 
 -e Float #6903095, 14-09-2021,23:35 : surfaced in Cyclone 62 
--e Float #6903095, 17-09-2021,22:55 : surfaced in Cyclone 62 
+-e Float #6903095, 17-09-2021,22:56 : surfaced in Cyclone 62 
 -e Float #6903095, 20-09-2021,23:15 : surfaced in Cyclone 62 
 -e Float #6903095, 23-09-2021,22:55 : surfaced in Cyclone 62 
 -e Float #6903095, 26-09-2021,23:19 : did not surface in an eddy 
@@ -65,21 +65,21 @@
 -e Float #6903095, 08-10-2021,23:19 : surfaced in Cyclone 2753 
 -e Float #6903095, 11-10-2021,22:53 : surfaced in Cyclone 2753 
 -e Float #6903095, 14-10-2021,23:19 : surfaced in Cyclone 2753 
--e Float #6903095, 17-10-2021,22:45 : surfaced in Cyclone 2753 
+-e Float #6903095, 17-10-2021,22:46 : surfaced in Cyclone 2753 
 -e Float #6903095, 20-10-2021,23:15 : surfaced in Cyclone 2753 
--e Float #6903095, 23-10-2021,22:55 : did not surface in an eddy 
+-e Float #6903095, 23-10-2021,22:56 : did not surface in an eddy 
 -e Float #6903095, 26-10-2021,23:15 : did not surface in an eddy 
 -e Float #6903095, 29-10-2021,22:59 : did not surface in an eddy 
 -e Float #6903095, 01-11-2021,23:19 : did not surface in an eddy 
 -e Float #6903095, 04-11-2021,22:53 : did not surface in an eddy 
 -e Float #6903095, 07-11-2021,23:45 : did not surface in an eddy 
--e Float #6903095, 10-11-2021,22:55 : did not surface in an eddy 
+-e Float #6903095, 10-11-2021,22:56 : did not surface in an eddy 
 -e Float #6903095, 13-11-2021,23:17 : did not surface in an eddy 
 -e Float #6903095, 16-11-2021,22:51 : did not surface in an eddy 
 -e Float #6903095, 19-11-2021,23:17 : did not surface in an eddy 
 -e Float #6903095, 22-11-2021,22:47 : did not surface in an eddy 
 -e Float #6903095, 25-11-2021,23:19 : did not surface in an eddy 
--e Float #6903095, 28-11-2021,22:55 : did not surface in an eddy 
+-e Float #6903095, 28-11-2021,22:56 : did not surface in an eddy 
 -e Float #6903095, 01-12-2021,23:19 : did not surface in an eddy 
 -e Float #6903095, 04-12-2021,22:50 : surfaced in Cyclone 1359 
 -e Float #6903095, 07-12-2021,21:57 : surfaced in Cyclone 1359 
