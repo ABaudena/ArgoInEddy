@@ -38,20 +38,20 @@ ans =
 
      0
 
-Extracting:    nrt_global_allsat_phy_l4_20220820_20220826.nc
-Extracting:    nrt_global_allsat_phy_l4_20220821_20220824.nc
+Extracting:    nrt_global_allsat_phy_l4_20220821_20220827.nc
 Extracting:    nrt_global_allsat_phy_l4_20220822_20220825.nc
 Extracting:    nrt_global_allsat_phy_l4_20220823_20220826.nc
-Extracting:    nrt_global_allsat_phy_l4_20220824_20220824.nc
+Extracting:    nrt_global_allsat_phy_l4_20220824_20220827.nc
 Extracting:    nrt_global_allsat_phy_l4_20220825_20220825.nc
 Extracting:    nrt_global_allsat_phy_l4_20220826_20220826.nc
-Extracting eddies for:    adt_20220820.mat
+Extracting:    nrt_global_allsat_phy_l4_20220827_20220827.nc
 Extracting eddies for:    adt_20220821.mat
 Extracting eddies for:    adt_20220822.mat
 Extracting eddies for:    adt_20220823.mat
 Extracting eddies for:    adt_20220824.mat
 Extracting eddies for:    adt_20220825.mat
 Extracting eddies for:    adt_20220826.mat
+Extracting eddies for:    adt_20220827.mat
 Extracting variables for:    adt_20210411.mat
 Extracting variables for:    adt_20210412.mat
 Extracting variables for:    adt_20210413.mat
@@ -555,6 +555,7 @@ Extracting variables for:    adt_20220823.mat
 Extracting variables for:    adt_20220824.mat
 Extracting variables for:    adt_20220825.mat
 Extracting variables for:    adt_20220826.mat
+Extracting variables for:    adt_20220827.mat
 Save Cyclonics eddies
 Save Antiyclonics eddies
 Save Contours
@@ -570,31 +571,31 @@ In run (line 91)]
 [> In Step4_Associate_Eddies (line 24)
 In Example_Colocation_Float_6903095 (line 151)
 In run (line 91)] 
-06:20:15:Type=id_start_std count=1 rest=2811
-06:20:15:Type=id_start_std count=1000 rest=1812
-06:20:15:Type=id_start_std count=2000 rest=812
-06:20:16:Type=id_start_split count=1 rest=2947
-06:20:17:Type=id_start_split count=1000 rest=1948
-06:20:17:Type=id_start_split count=2000 rest=948
-06:20:19:Type=id_start_merge count=1 rest=1599
-06:20:19:Type=id_start_merge count=1000 rest=600
-06:20:22:Type=id_start_both count=1 rest=52
-06:20:35:count=1 rest=100%
-06:20:35:count=1000 rest=79.2%
-06:20:36:count=2000 rest=58.4%
-06:20:36:count=3000 rest=37.6%
-06:20:40:Type=id_start_std count=1 rest=2971
-06:20:40:Type=id_start_std count=1000 rest=1972
-06:20:41:Type=id_start_std count=2000 rest=972
-06:20:42:Type=id_start_split count=1 rest=3386
-06:20:42:Type=id_start_split count=1000 rest=2387
-06:20:42:Type=id_start_split count=2000 rest=1387
-06:20:42:Type=id_start_split count=3000 rest=387
-06:20:45:Type=id_start_merge count=1 rest=1801
-06:20:45:Type=id_start_merge count=1000 rest=802
-06:20:48:Type=id_start_both count=1 rest=58
-06:21:01:count=1 rest=100%
-06:21:02:count=1000 rest=81.7%
-06:21:02:count=2000 rest=63.4%
-06:21:02:count=3000 rest=45.1%
+06:23:31:Type=id_start_std count=1 rest=2818
+06:23:31:Type=id_start_std count=1000 rest=1819
+06:23:31:Type=id_start_std count=2000 rest=819
+06:23:32:Type=id_start_split count=1 rest=2973
+06:23:33:Type=id_start_split count=1000 rest=1974
+06:23:33:Type=id_start_split count=2000 rest=974
+06:23:35:Type=id_start_merge count=1 rest=1604
+06:23:36:Type=id_start_merge count=1000 rest=605
+06:23:39:Type=id_start_both count=1 rest=53
+06:23:55:count=1 rest=100%
+06:23:56:count=1000 rest=79.3%
+06:23:56:count=2000 rest=58.6%
+06:23:57:count=3000 rest=38%
+06:24:01:Type=id_start_std count=1 rest=2980
+06:24:01:Type=id_start_std count=1000 rest=1981
+06:24:02:Type=id_start_std count=2000 rest=981
+06:24:03:Type=id_start_split count=1 rest=3401
+06:24:03:Type=id_start_split count=1000 rest=2402
+06:24:03:Type=id_start_split count=2000 rest=1402
+06:24:03:Type=id_start_split count=3000 rest=402
+06:24:06:Type=id_start_merge count=1 rest=1804
+06:24:06:Type=id_start_merge count=1000 rest=805
+06:24:10:Type=id_start_both count=1 rest=57
+06:24:26:count=1 rest=100%
+06:24:27:count=1000 rest=81.7%
+06:24:27:count=2000 rest=63.4%
+06:24:28:count=3000 rest=45.2%
 Argo float #6903095 did not surface the 25-08-2022 in an eddy
