@@ -171,3 +171,4 @@
 -e Float #6903095, 22-08-2022,22:57 : did not surface in an eddy 
 -e Float #6903095, 25-08-2022,23:21 : surfaced in Anticyclone 0 
 -e Float #6903095, 28-08-2022,22:55 : surfaced in Anticyclone 0 
+-e Float #6903095, 31-08-2022,23:41 : surfaced in Anticyclone 0 
